@@ -1,6 +1,6 @@
 👋  My name is Colby Sawada and I am a new grad currently looking for a software engineering position. 
 
-I enjoy working in Java and Python and occasionally mess around in front end development with React. 
+I enjoy working in Java and Python and occasionally develop front end applications with JS (React). 
 
 I love collecting sports cards and memorabilia along with fishing, cooking, and most outdoor activities!
 

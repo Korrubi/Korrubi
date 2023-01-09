@@ -1,4 +1,4 @@
-👋  My name is Colby Sawada and I am a new grad currently looking for a software engineering position. 
+👋  My name is Colby Sawada and currently a software developer. 
 
 I enjoy working in Java and Python and occasionally develop front end applications with JS (React). 
 

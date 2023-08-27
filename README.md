@@ -10,7 +10,7 @@ I love collecting sports cards and memorabilia along with fishing, cooking, and 
 
 Linkedin: https://www.linkedin.com/in/colby-sawada-3b5598193/
 
-Personal Website: *Under Construction*
+Personal Website: https://www.csawada.com
 
 
 <!---
